@@ -1,7 +1,7 @@
 # Mpps-if678
 Atividades relacionadas a cadeira de infra-com do Centro de informática.
 
-Descrição das atividades
+# Descrição das atividades
 
 Nesta atividade, vocês produzirão programas do tipo cliente-servidor, explanando e exercitando os conceitos de sockets vistos em aula.
 
